@@ -6,9 +6,9 @@ This project analyzes the pizza sales of Company X, focusing on identifying the 
 ## Dashboard Overview
 Here is a screenshot of the dashboard created in Power BI:
 
-![Dashboard Screenshot](dash_home.pdf)
+![Dashboard Screenshot](dash_home.png)
 
-![Dashboard Screenshot](dash2.pdf)
+![Dashboard Screenshot](dash2.png)
 
 ## Technologies Used
 - Python
