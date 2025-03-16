@@ -6,7 +6,7 @@ This project analyzes the pizza sales of Company X, focusing on identifying the 
 ## Dashboard Overview
 Here is a screenshot of the dashboard created in Power BI:
 
-![Dashboard Screenshot](images/dash1.pdf)
+![Dashboard Screenshot](images/dash_home.pdf)
 
 ![Dashboard Screenshot](images/dash2.pdf)
 
